@@ -1,5 +1,7 @@
+library shift_software_adp_models;
+
 class VINValidator {
-    static _validateVin(String vin) {
+  static _validateVin(String vin) {
     // Check if VIN is not empty and exactly 17 characters
     if (vin.isEmpty || vin.length != 17) {
       return false;
