@@ -1,7 +1,7 @@
 name: shift_software_adp
 description: Shift Software ADP
 version: 0.0.1
-homepage: https://github.com/orgs/ShiftSoftware/repositories
+homepage: https://github.com/ShiftSoftware/ADP_Flutter
 
 environment:
   sdk: ">=2.15.0 <4.0.0"
